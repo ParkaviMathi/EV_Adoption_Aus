@@ -6,7 +6,7 @@ Web Application to Visualize and Analyse various factors influencing EV Adoption
 In this project we will go over the product goal, motivation for this project, the pipeline we used for the data. We will then showcase a demo of the data dashboards we created, after that there is a high level analysis of our findings. We will end it with future direction.
 
 
-## bProduct Goal
+## Product Goal
 The primary goal of this project is to analyse the current adoption rates of electric vehicles (EVs) in Australia. This analysis will identify factors influencing EV adoption and explore potential trends for the future. The insights derived from this analysis will be valuable to stakeholders.
 
 This project is made in the the perspective of three main stakeholders:
