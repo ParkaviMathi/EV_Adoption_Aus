@@ -1,0 +1,554 @@
+,Model,Fuel,Veh Class,L/100km
+0,AUDI Q4 40 e-tron,Electricity,standard SUV,7.127714636363637
+1,AUDI Q4 40 e-tron,Electricity,standard SUV,7.127714636363637
+2,AUDI Q4 50 e-tron quattro,Electricity,standard SUV,2.529189064516129
+3,AUDI Q4 50 e-tron quattro,Electricity,standard SUV,2.529189064516129
+4,AUDI Q4 Sportback 50 e-tron quattro,Electricity,standard SUV,2.4759429789473684
+5,AUDI Q4 Sportback 50 e-tron quattro,Electricity,standard SUV,2.4759429789473684
+6,AUDI Q5 Plug-In Hybrid quattro,Gasoline/Electricity,small SUV,
+7,AUDI Q5 Plug-In Hybrid quattro,Gasoline/Electricity,small SUV,
+8,AUDI Q8 Sportback e-tron quattro,Electricity,standard SUV,2.703615896551724
+9,AUDI Q8 Sportback e-tron quattro,Electricity,standard SUV,2.703615896551724
+10,AUDI Q8 Sportback e-tron ultra quattro,Electricity,standard SUV,2.7350532906976746
+11,AUDI Q8 Sportback e-tron ultra quattro,Electricity,standard SUV,2.7350532906976746
+12,AUDI Q8 e-tron quattro,Electricity,standard SUV,2.9038837407407407
+13,AUDI Q8 e-tron quattro,Electricity,standard SUV,2.9038837407407407
+14,AUDI RS e-tron GT,Electricity,midsize car,2.767230388235294
+15,AUDI RS e-tron GT,Electricity,midsize car,2.767230388235294
+16,AUDI SQ8 Sportback e-tron (20 in.wheels),Electricity,standard SUV,3.222117575342466
+17,AUDI SQ8 Sportback e-tron (20 in.wheels),Electricity,standard SUV,3.222117575342466
+18,AUDI SQ8 Sportback e-tron (21/22 in.wheels),Electricity,standard SUV,3.7335648095238096
+19,AUDI SQ8 Sportback e-tron (21/22 in.wheels),Electricity,standard SUV,3.7335648095238096
+20,AUDI SQ8 e-tron (20 in. wheels),Electricity,standard SUV,3.222117575342466
+21,AUDI SQ8 e-tron (20 in. wheels),Electricity,standard SUV,3.222117575342466
+22,AUDI SQ8 e-tron (21/22 in.wheels),Electricity,standard SUV,3.7335648095238096
+23,AUDI SQ8 e-tron (21/22 in.wheels),Electricity,standard SUV,3.7335648095238096
+24,AUDI e-tron GT,Electricity,midsize car,2.767230388235294
+25,AUDI e-tron GT,Electricity,midsize car,2.767230388235294
+26,BMW 330e,Gasoline/Electricity,small car,
+27,BMW 330e,Gasoline/Electricity,small car,
+28,BMW 330e,Gasoline/Electricity,small car,
+29,BMW 330e,Gasoline/Electricity,small car,
+30,BMW 750e xDrive,Gasoline/Electricity,large car,
+31,BMW 750e xDrive,Gasoline/Electricity,large car,
+32,BMW X5 xDrive50e,Gasoline/Electricity,standard SUV,
+33,BMW X5 xDrive50e,Gasoline/Electricity,standard SUV,
+34,"BMW i4 M50 Gran Coupe (19"" Wheels)",Electricity,small car,2.4759429789473684
+35,"BMW i4 M50 Gran Coupe (19"" Wheels)",Electricity,small car,2.4759429789473684
+36,"BMW i4 M50 Gran Coupe (20"" Wheels)",Electricity,small car,2.9401822875
+37,"BMW i4 M50 Gran Coupe (20"" Wheels)",Electricity,small car,2.9401822875
+38,BMW i4 eDrive 35 Gran Coupe (19'' Wheels),Electricity,small car,2.138314390909091
+39,BMW i4 eDrive 35 Gran Coupe (19'' Wheels),Electricity,small car,2.138314390909091
+40,BMW i4 eDrive35 Gran Coupe (18'' Wheels),Electricity,small car,1.9601215250000001
+41,BMW i4 eDrive35 Gran Coupe (18'' Wheels),Electricity,small car,1.9601215250000001
+42,"BMW i4 eDrive40 Gran Coupe (18"" Wheels)",Electricity,small car,2.1579319541284403
+43,"BMW i4 eDrive40 Gran Coupe (18"" Wheels)",Electricity,small car,2.1579319541284403
+44,"BMW i4 eDrive40 Gran Coupe (19"" Wheels)",Electricity,small car,2.35214583
+45,"BMW i4 eDrive40 Gran Coupe (19"" Wheels)",Electricity,small car,2.35214583
+46,BMW i4 xDrive40 Gran Coupe (18'' Wheels),Electricity,small car,2.1579319541284403
+47,BMW i4 xDrive40 Gran Coupe (18'' Wheels),Electricity,small car,2.1579319541284403
+48,BMW i4 xDrive40 Gran Coupe (19'' Wheels),Electricity,small car,2.3759048787878787
+49,BMW i4 xDrive40 Gran Coupe (19'' Wheels),Electricity,small car,2.3759048787878787
+50,BMW i5 M60 xDrive Sedan (19'' Wheels),Electricity,small car,2.5847756373626374
+51,BMW i5 M60 xDrive Sedan (19'' Wheels),Electricity,small car,2.5847756373626374
+52,BMW i5 M60 xDrive Sedan (20'' Wheels),Electricity,small car,2.6428604831460674
+53,BMW i5 M60 xDrive Sedan (20'' Wheels),Electricity,small car,2.6428604831460674
+54,BMW i5 M60 xDrive Sedan (21'' Wheels),Electricity,small car,2.767230388235294
+55,BMW i5 M60 xDrive Sedan (21'' Wheels),Electricity,small car,2.767230388235294
+56,BMW i5 eDrive40 Sedan (19'' Wheels),Electricity,small car,2.240138885714286
+57,BMW i5 eDrive40 Sedan (19'' Wheels),Electricity,small car,2.240138885714286
+58,BMW i5 eDrive40 Sedan (20'' Wheels),Electricity,small car,2.3759048787878787
+59,BMW i5 eDrive40 Sedan (20'' Wheels),Electricity,small car,2.3759048787878787
+60,BMW i5 eDrive40 Sedan (21'' Wheels),Electricity,small car,2.45015190625
+61,BMW i5 eDrive40 Sedan (21'' Wheels),Electricity,small car,2.45015190625
+62,BMW i7 M70 xDrive Sedan (20'' Wheels),Electricity,large car,3.054734844155844
+63,BMW i7 M70 xDrive Sedan (20'' Wheels),Electricity,large car,3.054734844155844
+64,BMW i7 M70 xDrive Sedan (21'' Wheels),Electricity,large car,2.9038837407407407
+65,BMW i7 M70 xDrive Sedan (21'' Wheels),Electricity,large car,2.9038837407407407
+66,BMW i7 eDrive50 Sedan (19'' Wheels),Electricity,large car,2.6134953666666667
+67,BMW i7 eDrive50 Sedan (19'' Wheels),Electricity,large car,2.6134953666666667
+68,BMW i7 eDrive50 Sedan (20'' Wheels),Electricity,large car,2.7350532906976746
+69,BMW i7 eDrive50 Sedan (20'' Wheels),Electricity,large car,2.7350532906976746
+70,BMW i7 eDrive50 Sedan (21'' Wheels),Electricity,large car,2.6728929886363635
+71,BMW i7 eDrive50 Sedan (21'' Wheels),Electricity,large car,2.6728929886363635
+72,BMW i7 xDrive60 Sedan (19'' Wheels),Electricity,large car,2.6134953666666667
+73,BMW i7 xDrive60 Sedan (19'' Wheels),Electricity,large car,2.6134953666666667
+74,BMW i7 xDrive60 Sedan (20'' Wheels),Electricity,large car,2.8001736071428573
+75,BMW i7 xDrive60 Sedan (20'' Wheels),Electricity,large car,2.8001736071428573
+76,BMW i7 xDrive60 Sedan (21'' Wheels),Electricity,large car,2.6728929886363635
+77,BMW i7 xDrive60 Sedan (21'' Wheels),Electricity,large car,2.6728929886363635
+78,BMW iX M60 (21'' Wheels),Electricity,standard SUV,2.9401822875
+79,BMW iX M60 (21'' Wheels),Electricity,standard SUV,2.9401822875
+80,BMW iX M60 (22'' Wheels),Electricity,standard SUV,2.9401822875
+81,BMW iX M60 (22'' Wheels),Electricity,standard SUV,2.9401822875
+82,BMW iX xDrive40 (20'' Wheels),Electricity,standard SUV,2.7350532906976746
+83,BMW iX xDrive40 (20'' Wheels),Electricity,standard SUV,2.7350532906976746
+84,BMW iX xDrive40 (21'' Wheels),Electricity,standard SUV,2.7350532906976746
+85,BMW iX xDrive40 (21'' Wheels),Electricity,standard SUV,2.7350532906976746
+86,BMW iX xDrive40 (22'' Wheels),Electricity,standard SUV,2.7350532906976746
+87,BMW iX xDrive40 (22'' Wheels),Electricity,standard SUV,2.7350532906976746
+88,"BMW iX xDrive50 (20"" Wheels)",Electricity,standard SUV,2.833910638554217
+89,"BMW iX xDrive50 (20"" Wheels)",Electricity,standard SUV,2.833910638554217
+90,"BMW iX xDrive50 (21"" Wheels)",Electricity,standard SUV,2.833910638554217
+91,"BMW iX xDrive50 (21"" Wheels)",Electricity,standard SUV,2.833910638554217
+92,BMW iX xDrive50 (22'' Wheels),Electricity,standard SUV,2.833910638554217
+93,BMW iX xDrive50 (22'' Wheels),Electricity,standard SUV,2.833910638554217
+94,CADILLAC Lyriq,Electricity,small SUV,2.6728929886363635
+95,CADILLAC Lyriq,Electricity,small SUV,2.6728929886363635
+96,CHEVROLET Blazer EV,Electricity,small SUV,2.55668025
+97,CHEVROLET Blazer EV,Electricity,small SUV,2.55668025
+98,CHEVROLET Blazer EV,Electricity,small SUV,2.45015190625
+99,CHEVROLET Blazer EV,Electricity,small SUV,2.45015190625
+100,CHEVROLET Equinox EV,Electricity,small SUV,2.1779128055555557
+101,CHEVROLET Equinox EV,Electricity,small SUV,2.1779128055555557
+102,CHEVROLET Silverado EV,Electricity,pickup,3.7335648095238096
+103,CHEVROLET Silverado EV,Electricity,pickup,3.510665417910448
+104,CHEVROLET Silverado EV,Electricity,pickup,3.7335648095238096
+105,CHEVROLET Silverado EV,Electricity,pickup,3.510665417910448
+106,CHRYSLER Pacifica Hybrid,Gasoline/Electricity,minivan,
+107,CHRYSLER Pacifica Hybrid,Gasoline/Electricity,minivan,
+108,CRUISE Origin,Electricity,station wagon,5.600347214285715
+109,CRUISE Origin,Electricity,station wagon,5.600347214285715
+110,FIAT 500e,Electricity,small car,2.027711922413793
+111,FIAT 500e,Electricity,small car,2.027711922413793
+112,FIAT 500e All Season,Electricity,small car,2.138314390909091
+113,FIAT 500e All Season,Electricity,small car,2.138314390909091
+114,FISKER Ocean Extreme 20in,Electricity,standard SUV,2.55668025
+115,FISKER Ocean Extreme 20in,Electricity,standard SUV,2.55668025
+116,FISKER Ocean Extreme 22in,Electricity,standard SUV,2.6428604831460674
+117,FISKER Ocean Extreme 22in,Electricity,standard SUV,2.6428604831460674
+118,FISKER Ocean Sport 20in,Electricity,standard SUV,2.55668025
+119,FISKER Ocean Sport 20in,Electricity,standard SUV,2.55668025
+120,FISKER Ocean Sport 22in,Electricity,standard SUV,2.977399784810127
+121,FISKER Ocean Sport 22in,Electricity,standard SUV,2.977399784810127
+122,FISKER Ocean Ultra 20in,Electricity,standard SUV,2.6428604831460674
+123,FISKER Ocean Ultra 20in,Electricity,standard SUV,2.6428604831460674
+124,FISKER Ocean Ultra 22in,Electricity,standard SUV,2.703615896551724
+125,FISKER Ocean Ultra 22in,Electricity,standard SUV,2.703615896551724
+126,FORD Escape PHEV,Gasoline/Electricity,small SUV,
+127,FORD Escape PHEV,Gasoline/Electricity,small SUV,
+128,FORD F150 Lightning,Electricity,pickup,3.4590379852941178
+129,FORD F150 Lightning,Electricity,pickup,3.4590379852941178
+130,FORD F150 Lightning Extended Range,Electricity,pickup,3.360208328571429
+131,FORD F150 Lightning Extended Range,Electricity,pickup,3.360208328571429
+132,FORD F150 Lightning Platinum,Electricity,pickup,3.5638573181818183
+133,FORD F150 Lightning Platinum,Electricity,pickup,3.5638573181818183
+134,FORD F150 Lightning Pro Extended Range,Electricity,pickup,3.360208328571429
+135,FORD F150 Lightning Pro Extended Range,Electricity,pickup,3.360208328571429
+136,GENESIS Electrified G80,Electricity,midsize car,2.424892608247423
+137,GENESIS Electrified G80,Electricity,midsize car,2.424892608247423
+138,GENESIS Electrified GV70,Electricity,small SUV,2.5847756373626374
+139,GENESIS Electrified GV70,Electricity,small SUV,2.5847756373626374
+140,GENESIS GV60 Advanced (19'' Wheels),Electricity,small SUV,2.35214583
+141,GENESIS GV60 Advanced (19'' Wheels),Electricity,small SUV,2.35214583
+142,GENESIS GV60 Advanced (20'' Wheels),Electricity,small SUV,2.4759429789473684
+143,GENESIS GV60 Advanced (20'' Wheels),Electricity,small SUV,2.4759429789473684
+144,GENESIS GV60 Performance,Electricity,small SUV,2.6134953666666667
+145,GENESIS GV60 Performance,Electricity,small SUV,2.6134953666666667
+146,GENESIS GV60 Standard,Electricity,small SUV,2.100130205357143
+147,GENESIS GV60 Standard,Electricity,small SUV,2.100130205357143
+148,GMC Hummer EV Pickup,Electricity,pickup,4.438011
+149,GMC Hummer EV Pickup,Electricity,pickup,4.438011
+150,GMC Hummer EV Pickup,Electricity,pickup,4.523357365384616
+151,GMC Hummer EV Pickup,Electricity,pickup,4.523357365384616
+152,GMC Hummer EV Pickup MT Tires,Electricity,pickup,4.70429166
+153,GMC Hummer EV Pickup MT Tires,Electricity,pickup,4.70429166
+154,GMC Hummer EV Pickup MT Tires,Electricity,pickup,5.004565595744681
+155,GMC Hummer EV Pickup MT Tires,Electricity,pickup,5.004565595744681
+156,GMC Hummer EV SUV,Electricity,standard SUV,4.438011
+157,GMC Hummer EV SUV,Electricity,standard SUV,4.438011
+158,GMC Hummer EV SUV,Electricity,standard SUV,4.612050647058823
+159,GMC Hummer EV SUV,Electricity,standard SUV,4.612050647058823
+160,GMC Hummer EV SUV MT Tires,Electricity,standard SUV,4.70429166
+161,GMC Hummer EV SUV MT Tires,Electricity,standard SUV,4.70429166
+162,GMC Hummer EV SUV MT Tires,Electricity,standard SUV,5.004565595744681
+163,GMC Hummer EV SUV MT Tires,Electricity,standard SUV,5.004565595744681
+164,HONDA Accord,Gasoline,large car,4.9003038125
+165,HONDA Accord,Gasoline,large car,4.9003038125
+166,HONDA Accord Sport/Touring,Gasoline,midsize car,5.345785977272727
+167,HONDA Accord Sport/Touring,Gasoline,midsize car,5.345785977272727
+168,HYUNDAI Elantra Hybrid,Gasoline,midsize car,4.70429166
+169,HYUNDAI Elantra Hybrid,Gasoline,midsize car,4.70429166
+170,HYUNDAI Elantra Hybrid Blue,Gasoline,midsize car,4.355825611111111
+171,HYUNDAI Elantra Hybrid Blue,Gasoline,midsize car,4.355825611111111
+172,HYUNDAI Ioniq 5 Long range AWD,Electricity,small SUV,2.3759048787878787
+173,HYUNDAI Ioniq 5 Long range AWD,Electricity,small SUV,2.3759048787878787
+174,HYUNDAI Ioniq 5 Long range RWD,Electricity,small SUV,2.063285815789474
+175,HYUNDAI Ioniq 5 Long range RWD,Electricity,small SUV,2.063285815789474
+176,HYUNDAI Ioniq 5 Robo taxi,Electricity,small SUV,3.3128814507042255
+177,HYUNDAI Ioniq 5 Robo taxi,Electricity,small SUV,3.3128814507042255
+178,HYUNDAI Ioniq 5 Standard range RWD,Electricity,small SUV,2.138314390909091
+179,HYUNDAI Ioniq 5 Standard range RWD,Electricity,small SUV,2.138314390909091
+180,HYUNDAI Ioniq 6 Long range AWD (18'' Wheels),Electricity,midsize car,1.943922173553719
+181,HYUNDAI Ioniq 6 Long range AWD (18'' Wheels),Electricity,midsize car,1.943922173553719
+182,HYUNDAI Ioniq 6 Long range AWD (20'' Wheels),Electricity,midsize car,2.28363672815534
+183,HYUNDAI Ioniq 6 Long range AWD (20'' Wheels),Electricity,midsize car,2.28363672815534
+184,HYUNDAI Ioniq 6 Long range RWD (18'' Wheels),Electricity,midsize car,1.6801041642857144
+185,HYUNDAI Ioniq 6 Long range RWD (18'' Wheels),Electricity,midsize car,1.6801041642857144
+186,HYUNDAI Ioniq 6 Long range RWD (20'' Wheels),Electricity,midsize car,2.0103810512820512
+187,HYUNDAI Ioniq 6 Long range RWD (20'' Wheels),Electricity,midsize car,2.0103810512820512
+188,HYUNDAI Ioniq 6 Standard Range RWD,Electricity,midsize car,1.7423302444444444
+189,HYUNDAI Ioniq 6 Standard Range RWD,Electricity,midsize car,1.7423302444444444
+190,HYUNDAI Kona Electric Long Range,Electricity,small SUV,2.027711922413793
+191,HYUNDAI Kona Electric Long Range,Electricity,small SUV,2.027711922413793
+192,HYUNDAI Kona Electric Standard Range,Electricity,small SUV,1.9933439237288135
+193,HYUNDAI Kona Electric Standard Range,Electricity,small SUV,1.9933439237288135
+194,HYUNDAI NEXO,Hydrogen,small SUV,4.126571631578948
+195,HYUNDAI NEXO,Hydrogen,small SUV,4.126571631578948
+196,HYUNDAI NEXO Blue,Hydrogen,small SUV,3.8559767704918033
+197,HYUNDAI NEXO Blue,Hydrogen,small SUV,3.8559767704918033
+198,HYUNDAI Sonata Hybrid,Gasoline,large car,5.004565595744681
+199,HYUNDAI Sonata Hybrid,Gasoline,large car,5.004565595744681
+200,HYUNDAI Tuscon Plug-in Hybrid,Gasoline/Electricity,small SUV,
+201,HYUNDAI Tuscon Plug-in Hybrid,Gasoline/Electricity,small SUV,
+202,JAGUAR I-PACE EV400 (20 inch tires),Electricity,small SUV,2.767230388235294
+203,JAGUAR I-PACE EV400 (20 inch tires),Electricity,small SUV,2.767230388235294
+204,JAGUAR I-PACE EV400 (22 inch tire),Electricity,small SUV,3.0949287236842107
+205,JAGUAR I-PACE EV400 (22 inch tire),Electricity,small SUV,3.0949287236842107
+206,JAGUAR I-PACE EV400 SDS,Electricity,small SUV,3.13619444
+207,JAGUAR I-PACE EV400 SDS,Electricity,small SUV,3.13619444
+208,JEEP Grand Cherokee,Gasoline/Electricity,standard SUV,
+209,JEEP Grand Cherokee,Gasoline/Electricity,standard SUV,
+210,KIA EV6 GT,Electricity,small SUV,2.833910638554217
+211,KIA EV6 GT,Electricity,small SUV,2.833910638554217
+212,KIA EV6 Long Range,Electricity,small SUV,2.0103810512820512
+213,KIA EV6 Long Range,Electricity,small SUV,2.0103810512820512
+214,KIA EV6 Long Range AWD (19'' Wheels),Electricity,small SUV,2.1579319541284403
+215,KIA EV6 Long Range AWD (19'' Wheels),Electricity,small SUV,2.1579319541284403
+216,KIA EV6 Long Range AWD (20'' Wheels),Electricity,small SUV,2.45015190625
+217,KIA EV6 Long Range AWD (20'' Wheels),Electricity,small SUV,2.45015190625
+218,KIA EV6 Standard Range,Electricity,small SUV,2.0103810512820512
+219,KIA EV6 Standard Range,Electricity,small SUV,2.0103810512820512
+220,KIA EV9 Long Range AWD,Electricity,standard SUV,2.833910638554217
+221,KIA EV9 Long Range AWD,Electricity,standard SUV,2.833910638554217
+222,KIA EV9 Long Range AWD GT-Line,Electricity,standard SUV,2.9401822875
+223,KIA EV9 Long Range AWD GT-Line,Electricity,standard SUV,2.9401822875
+224,KIA EV9 Long Range RWD,Electricity,standard SUV,2.6428604831460674
+225,KIA EV9 Long Range RWD,Electricity,standard SUV,2.6428604831460674
+226,KIA EV9 Standard Range RWD,Electricity,standard SUV,2.6728929886363635
+227,KIA EV9 Standard Range RWD,Electricity,standard SUV,2.6728929886363635
+228,KIA Niro,Gasoline,small SUV,4.800297612244898
+229,KIA Niro,Gasoline,small SUV,4.800297612244898
+230,KIA Niro Electric,Electricity,small SUV,2.081544982300885
+231,KIA Niro Electric,Electricity,small SUV,2.081544982300885
+232,KIA Niro FE,Gasoline,small SUV,4.438011
+233,KIA Niro FE,Gasoline,small SUV,4.438011
+234,KIA Niro Plug-in Hybrid,Gasoline/Electricity,small SUV,
+235,KIA Niro Plug-in Hybrid,Gasoline/Electricity,small SUV,
+236,KIA Sorento Plug-in Hybrid,Gasoline/Electricity,small SUV,
+237,KIA Sorento Plug-in Hybrid,Gasoline/Electricity,small SUV,
+238,KIA Sportage Hybrid,Gasoline,small SUV,5.470106581395349
+239,KIA Sportage Hybrid,Gasoline,small SUV,5.470106581395349
+240,KIA Sportage Plug-in Hybrid,Gasoline/Electricity,small SUV,
+241,KIA Sportage Plug-in Hybrid,Gasoline/Electricity,small SUV,
+242,LAND ROVER Range Rover P460 PHEV,Gasoline/Electricity,standard SUV,
+243,LAND ROVER Range Rover P460 PHEV,Gasoline/Electricity,standard SUV,
+244,LAND ROVER Range Rover P550 PHEV,Gasoline/Electricity,standard SUV,
+245,LAND ROVER Range Rover P550 PHEV,Gasoline/Electricity,standard SUV,
+246,LAND ROVER Range Rover Sport P460 PHEV,Gasoline/Electricity,standard SUV,
+247,LAND ROVER Range Rover Sport P460 PHEV,Gasoline/Electricity,standard SUV,
+248,LAND ROVER Range Rover Sport P550 PHEV,Gasoline/Electricity,standard SUV,
+249,LAND ROVER Range Rover Sport P550 PHEV,Gasoline/Electricity,standard SUV,
+250,LEXUS ES 300h,Gasoline,midsize car,5.345785977272727
+251,LEXUS ES 300h,Gasoline,midsize car,5.345785977272727
+252,LEXUS NX 450h+,Gasoline/Electricity,small SUV,
+253,LEXUS NX 450h+,Gasoline/Electricity,small SUV,
+254,LEXUS RX 450h+,Gasoline/Electricity,small SUV,
+255,LEXUS RX 450h+,Gasoline/Electricity,small SUV,
+256,LEXUS RZ 300e (18inch Wheels),Electricity,small SUV,1.881716664
+257,LEXUS RZ 300e (18inch Wheels),Electricity,small SUV,1.881716664
+258,LEXUS RZ 300e (20inch Wheels),Electricity,small SUV,2.240138885714286
+259,LEXUS RZ 300e (20inch Wheels),Electricity,small SUV,2.240138885714286
+260,LEXUS RZ 450e (18inch Wheels),Electricity,small SUV,2.1982671308411215
+261,LEXUS RZ 450e (18inch Wheels),Electricity,small SUV,2.1982671308411215
+262,LEXUS RZ 450e (20inch Wheels),Electricity,small SUV,2.4759429789473684
+263,LEXUS RZ 450e (20inch Wheels),Electricity,small SUV,2.4759429789473684
+264,LEXUS TX 550h+,Gasoline/Electricity,standard SUV,
+265,LEXUS TX 550h+,Gasoline/Electricity,standard SUV,
+266,"LUCID Air Pure RWD w/19"" wheels",Electricity,large car,1.7168947664233576
+267,"LUCID Air Pure RWD w/19"" wheels",Electricity,large car,1.7168947664233576
+268,"LUCID Air Pure RWD w/20"" wheels",Electricity,large car,1.8093429461538462
+269,"LUCID Air Pure RWD w/20"" wheels",Electricity,large car,1.8093429461538462
+270,LUCID Air Sapphire AWD,Electricity,large car,2.240138885714286
+271,LUCID Air Sapphire AWD,Electricity,large car,2.240138885714286
+272,"LUCID Air Touring AWD w/19"" wheels",Electricity,large car,1.7685306992481202
+273,"LUCID Air Touring AWD w/19"" wheels",Electricity,large car,1.7685306992481202
+274,"LUCID Air Touring AWD w/19"" wheels",Electricity,large car,1.7685306992481202
+275,"LUCID Air Touring AWD w/20"" wheels",Electricity,large car,1.9123136829268292
+276,"LUCID Air Touring AWD w/20"" wheels",Electricity,large car,1.9123136829268292
+277,"LUCID Air Touring AWD w/20"" wheels",Electricity,large car,1.9123136829268292
+278,"LUCID Air Touring AWD w/21"" wheels",Electricity,large car,1.9933439237288135
+279,"LUCID Air Touring AWD w/21"" wheels",Electricity,large car,1.9933439237288135
+280,"LUCID Air Touring AWD w/21"" wheels",Electricity,large car,1.9933439237288135
+281,MAZDA CX-90,Gasoline/Electricity,standard SUV,
+282,MAZDA CX-90,Gasoline/Electricity,standard SUV,
+283,MERCEDES-BENZ AMG EQE 4Matic+,Electricity,standard SUV,3.178575445945946
+284,MERCEDES-BENZ AMG EQE 4Matic+,Electricity,standard SUV,3.178575445945946
+285,MERCEDES-BENZ AMG EQE 4Matic+,Electricity,midsize car,3.222117575342466
+286,MERCEDES-BENZ AMG EQE 4Matic+,Electricity,midsize car,3.222117575342466
+287,MERCEDES-BENZ AMG EQS 4Matic+,Electricity,large car,2.868470524390244
+288,MERCEDES-BENZ AMG EQS 4Matic+,Electricity,large car,2.868470524390244
+289,MERCEDES-BENZ EQE 350 4Matic,Electricity,standard SUV,2.767230388235294
+290,MERCEDES-BENZ EQE 350 4Matic,Electricity,standard SUV,2.767230388235294
+291,MERCEDES-BENZ EQE 350 4Matic,Electricity,midsize car,2.6134953666666667
+292,MERCEDES-BENZ EQE 350 4Matic,Electricity,midsize car,2.6134953666666667
+293,MERCEDES-BENZ EQE 350+,Electricity,standard SUV,2.5022827978723403
+294,MERCEDES-BENZ EQE 350+,Electricity,standard SUV,2.5022827978723403
+295,MERCEDES-BENZ EQE 350+,Electricity,midsize car,2.45015190625
+296,MERCEDES-BENZ EQE 350+,Electricity,midsize car,2.45015190625
+297,MERCEDES-BENZ EQE 500 4Matic,Electricity,midsize car,2.6428604831460674
+298,MERCEDES-BENZ EQE 500 4Matic,Electricity,midsize car,2.6428604831460674
+299,MERCEDES-BENZ EQE 500 4Matic,Electricity,standard SUV,2.7350532906976746
+300,MERCEDES-BENZ EQE 500 4Matic,Electricity,standard SUV,2.7350532906976746
+301,MERCEDES-BENZ EQS 450 4Matic,Electricity,standard SUV,2.833910638554217
+302,MERCEDES-BENZ EQS 450 4Matic,Electricity,standard SUV,2.833910638554217
+303,MERCEDES-BENZ EQS 450 4Matic,Electricity,large car,2.4759429789473684
+304,MERCEDES-BENZ EQS 450 4Matic,Electricity,large car,2.4759429789473684
+305,MERCEDES-BENZ EQS 450+,Electricity,standard SUV,2.7350532906976746
+306,MERCEDES-BENZ EQS 450+,Electricity,standard SUV,2.7350532906976746
+307,MERCEDES-BENZ EQS 450+,Electricity,large car,2.45015190625
+308,MERCEDES-BENZ EQS 450+,Electricity,large car,2.45015190625
+309,MERCEDES-BENZ EQS 580 4Matic,Electricity,standard SUV,2.833910638554217
+310,MERCEDES-BENZ EQS 580 4Matic,Electricity,standard SUV,2.833910638554217
+311,MERCEDES-BENZ EQS 580 4Matic,Electricity,large car,2.45015190625
+312,MERCEDES-BENZ EQS 580 4Matic,Electricity,large car,2.45015190625
+313,MERCEDES-BENZ EQS 680 4MATIC Maybach (SUV),Electricity,standard SUV,3.0949287236842107
+314,MERCEDES-BENZ EQS 680 4MATIC Maybach (SUV),Electricity,standard SUV,3.0949287236842107
+315,MERCEDES-BENZ EQS 680 4MATIC Maybach (SUV),Electricity,standard SUV,2.9038837407407407
+316,MERCEDES-BENZ EQS 680 4MATIC Maybach (SUV),Electricity,standard SUV,2.9038837407407407
+317,MERCEDES-BENZ GLE 450e 4MATIC,Gasoline/Electricity,standard SUV,
+318,MERCEDES-BENZ GLE 450e 4MATIC,Gasoline/Electricity,standard SUV,
+319,MERCEDES-BENZ S 580 e 4Matic,Gasoline/Electricity,large car,
+320,MERCEDES-BENZ S 580 e 4Matic,Gasoline/Electricity,large car,
+321,MINI Cooper SE Hardtop,Electricity,small car,2.138314390909091
+322,MINI Cooper SE Hardtop,Electricity,small car,2.138314390909091
+323,MITSUBISHI Outlander PHEV,Gasoline/Electricity,standard SUV,
+324,MITSUBISHI Outlander PHEV,Gasoline/Electricity,standard SUV,
+325,NISSAN ARIYA ENGAGE 63kWh,Electricity,station wagon,2.3288572574257427
+326,NISSAN ARIYA ENGAGE 63kWh,Electricity,station wagon,2.3288572574257427
+327,NISSAN ARIYA ENGAGE e-4ORCE 63kWh,Electricity,station wagon,2.4759429789473684
+328,NISSAN ARIYA ENGAGE e-4ORCE 63kWh,Electricity,station wagon,2.4759429789473684
+329,NISSAN ARIYA ENGAGE+/EVOLVE+ e-4ORCE 87kWh,Electricity,station wagon,2.55668025
+330,NISSAN ARIYA ENGAGE+/EVOLVE+ e-4ORCE 87kWh,Electricity,station wagon,2.55668025
+331,NISSAN ARIYA EVOLVE+/EMPOWER+ 87kWh,Electricity,station wagon,2.400148806122449
+332,NISSAN ARIYA EVOLVE+/EMPOWER+ 87kWh,Electricity,station wagon,2.400148806122449
+333,NISSAN ARIYA PLATINUM+ e-4ORCE 87kWh 19in. Wheels,Electricity,station wagon,2.6134953666666667
+334,NISSAN ARIYA PLATINUM+ e-4ORCE 87kWh 19in. Wheels,Electricity,station wagon,2.6134953666666667
+335,NISSAN ARIYA PLATINUM+ e-4ORCE 87kWh 20in. Wheels,Electricity,station wagon,2.703615896551724
+336,NISSAN ARIYA PLATINUM+ e-4ORCE 87kWh 20in. Wheels,Electricity,station wagon,2.703615896551724
+337,NISSAN ARIYA VENTURE+ 87kWh,Electricity,station wagon,2.28363672815534
+338,NISSAN ARIYA VENTURE+ 87kWh,Electricity,station wagon,2.28363672815534
+339,NISSAN Leaf,Electricity,midsize car,2.1190502972972975
+340,NISSAN Leaf,Electricity,midsize car,2.1190502972972975
+341,NISSAN Leaf SV,Electricity,midsize car,2.1579319541284403
+342,NISSAN Leaf SV,Electricity,midsize car,2.1579319541284403
+343,POLESTAR 2 Dual Motor (19 Inch Wheels),Electricity,midsize car,2.2190055
+344,POLESTAR 2 Dual Motor (19 Inch Wheels),Electricity,midsize car,2.2190055
+345,POLESTAR 2 Dual Motor (20 Inch Wheels),Electricity,midsize car,2.3060253235294117
+346,POLESTAR 2 Dual Motor (20 Inch Wheels),Electricity,midsize car,2.3060253235294117
+347,POLESTAR 2 Dual Motor Performance Pack,Electricity,midsize car,2.4759429789473684
+348,POLESTAR 2 Dual Motor Performance Pack,Electricity,midsize car,2.4759429789473684
+349,POLESTAR 2 Single Motor (19 Inch Wheels),Electricity,midsize car,2.0453442
+350,POLESTAR 2 Single Motor (19 Inch Wheels),Electricity,midsize car,2.0453442
+351,POLESTAR 2 Single Motor (20 Inch Wheels),Electricity,midsize car,2.1190502972972975
+352,POLESTAR 2 Single Motor (20 Inch Wheels),Electricity,midsize car,2.1190502972972975
+353,PORSCHE Taycan 4 Cross Turismo,Electricity,midsize car,2.9401822875
+354,PORSCHE Taycan 4 Cross Turismo,Electricity,midsize car,2.9401822875
+355,PORSCHE Taycan 4S Cross Turismo,Electricity,midsize car,3.015571576923077
+356,PORSCHE Taycan 4S Cross Turismo,Electricity,midsize car,3.015571576923077
+357,PORSCHE Taycan 4S Perf Battery Plus,Electricity,small car,2.9401822875
+358,PORSCHE Taycan 4S Perf Battery Plus,Electricity,small car,2.9401822875
+359,PORSCHE Taycan 4S Performance Battery,Electricity,small car,2.868470524390244
+360,PORSCHE Taycan 4S Performance Battery,Electricity,small car,2.868470524390244
+361,PORSCHE Taycan GTS,Electricity,small car,2.833910638554217
+362,PORSCHE Taycan GTS,Electricity,small car,2.833910638554217
+363,PORSCHE Taycan GTS Sport Turismo,Electricity,small car,2.9401822875
+364,PORSCHE Taycan GTS Sport Turismo,Electricity,small car,2.9401822875
+365,PORSCHE Taycan Perf Battery Plus,Electricity,small car,2.868470524390244
+366,PORSCHE Taycan Perf Battery Plus,Electricity,small car,2.868470524390244
+367,PORSCHE Taycan Performance Battery,Electricity,small car,2.833910638554217
+368,PORSCHE Taycan Performance Battery,Electricity,small car,2.833910638554217
+369,PORSCHE Taycan Turbo,Electricity,small car,2.9038837407407407
+370,PORSCHE Taycan Turbo,Electricity,small car,2.9038837407407407
+371,PORSCHE Taycan Turbo Cross Turismo,Electricity,midsize car,2.977399784810127
+372,PORSCHE Taycan Turbo Cross Turismo,Electricity,midsize car,2.977399784810127
+373,PORSCHE Taycan Turbo S,Electricity,small car,3.13619444
+374,PORSCHE Taycan Turbo S,Electricity,small car,3.13619444
+375,PORSCHE Taycan Turbo S Cross Turismo,Electricity,midsize car,3.13619444
+376,PORSCHE Taycan Turbo S Cross Turismo,Electricity,midsize car,3.13619444
+377,RIMAC Nevera,Electricity,small car,4.438011
+378,RIMAC Nevera,Electricity,small car,4.276628781818182
+379,RIMAC Nevera,Electricity,small car,4.438011
+380,RIMAC Nevera,Electricity,small car,4.276628781818182
+381,RIVIAN R1S All-Terrain Dual Large (20in),Electricity,standard SUV,3.4590379852941178
+382,RIVIAN R1S All-Terrain Dual Large (20in),Electricity,standard SUV,3.4590379852941178
+383,RIVIAN R1S All-Terrain Dual Max (20in),Electricity,standard SUV,3.222117575342466
+384,RIVIAN R1S All-Terrain Dual Max (20in),Electricity,standard SUV,3.222117575342466
+385,RIVIAN R1S All-Terrain Performance Dual Large (20in),Electricity,standard SUV,3.4590379852941178
+386,RIVIAN R1S All-Terrain Performance Dual Large (20in),Electricity,standard SUV,3.4590379852941178
+387,RIVIAN R1S All-Terrain Performance Dual Max (20in),Electricity,standard SUV,3.222117575342466
+388,RIVIAN R1S All-Terrain Performance Dual Max (20in),Electricity,standard SUV,3.222117575342466
+389,RIVIAN R1S All-Terrain Quad Large (20in),Electricity,standard SUV,3.7335648095238096
+390,RIVIAN R1S All-Terrain Quad Large (20in),Electricity,standard SUV,3.7335648095238096
+391,RIVIAN R1S Dual Large (21in),Electricity,standard SUV,3.015571576923077
+392,RIVIAN R1S Dual Large (21in),Electricity,standard SUV,3.015571576923077
+393,RIVIAN R1S Dual Large (22in),Electricity,standard SUV,3.13619444
+394,RIVIAN R1S Dual Large (22in),Electricity,standard SUV,3.13619444
+395,RIVIAN R1S Dual Max (21in),Electricity,standard SUV,2.868470524390244
+396,RIVIAN R1S Dual Max (21in),Electricity,standard SUV,2.868470524390244
+397,RIVIAN R1S Dual Max (22in),Electricity,standard SUV,3.015571576923077
+398,RIVIAN R1S Dual Max (22in),Electricity,standard SUV,3.015571576923077
+399,RIVIAN R1S Dual Standard (21in),Electricity,standard SUV,3.13619444
+400,RIVIAN R1S Dual Standard (21in),Electricity,standard SUV,3.13619444
+401,RIVIAN R1S Dual Standard (22in),Electricity,standard SUV,3.360208328571429
+402,RIVIAN R1S Dual Standard (22in),Electricity,standard SUV,3.360208328571429
+403,RIVIAN R1S Performance Dual Large (21in),Electricity,standard SUV,3.015571576923077
+404,RIVIAN R1S Performance Dual Large (21in),Electricity,standard SUV,3.015571576923077
+405,RIVIAN R1S Performance Dual Large (22in),Electricity,standard SUV,3.13619444
+406,RIVIAN R1S Performance Dual Large (22in),Electricity,standard SUV,3.13619444
+407,RIVIAN R1S Performance Dual Max (21in),Electricity,standard SUV,2.868470524390244
+408,RIVIAN R1S Performance Dual Max (21in),Electricity,standard SUV,2.868470524390244
+409,RIVIAN R1S Performance Dual Max (22in),Electricity,standard SUV,3.015571576923077
+410,RIVIAN R1S Performance Dual Max (22in),Electricity,standard SUV,3.015571576923077
+411,RIVIAN R1S Quad Large (20in),Electricity,standard SUV,3.675227859375
+412,RIVIAN R1S Quad Large (20in),Electricity,standard SUV,3.675227859375
+413,RIVIAN R1S Quad Large (21in),Electricity,standard SUV,3.3128814507042255
+414,RIVIAN R1S Quad Large (21in),Electricity,standard SUV,3.3128814507042255
+415,RIVIAN R1S Quad Large (22in),Electricity,standard SUV,3.4590379852941178
+416,RIVIAN R1S Quad Large (22in),Electricity,standard SUV,3.4590379852941178
+417,RIVIAN R1T All-Terrain Dual Large (20in),Electricity,pickup,3.4590379852941178
+418,RIVIAN R1T All-Terrain Dual Large (20in),Electricity,pickup,3.4590379852941178
+419,RIVIAN R1T All-Terrain Dual Max (20in),Electricity,pickup,3.222117575342466
+420,RIVIAN R1T All-Terrain Dual Max (20in),Electricity,pickup,3.222117575342466
+421,RIVIAN R1T All-Terrain Performance Dual Large (20in),Electricity,pickup,3.4590379852941178
+422,RIVIAN R1T All-Terrain Performance Dual Large (20in),Electricity,pickup,3.4590379852941178
+423,RIVIAN R1T All-Terrain Performance Dual Max (20in),Electricity,pickup,3.222117575342466
+424,RIVIAN R1T All-Terrain Performance Dual Max (20in),Electricity,pickup,3.222117575342466
+425,RIVIAN R1T All-Terrain Quad Large (20in),Electricity,pickup,3.7335648095238096
+426,RIVIAN R1T All-Terrain Quad Large (20in),Electricity,pickup,3.7335648095238096
+427,RIVIAN R1T Dual Large (21in),Electricity,pickup,3.015571576923077
+428,RIVIAN R1T Dual Large (21in),Electricity,pickup,3.015571576923077
+429,RIVIAN R1T Dual Large (22in),Electricity,pickup,3.0949287236842107
+430,RIVIAN R1T Dual Large (22in),Electricity,pickup,3.0949287236842107
+431,RIVIAN R1T Dual Max (21in),Electricity,pickup,2.8001736071428573
+432,RIVIAN R1T Dual Max (21in),Electricity,pickup,2.8001736071428573
+433,RIVIAN R1T Dual Max (22in),Electricity,pickup,3.015571576923077
+434,RIVIAN R1T Dual Max (22in),Electricity,pickup,3.015571576923077
+435,RIVIAN R1T Dual Standard (21in),Electricity,pickup,3.13619444
+436,RIVIAN R1T Dual Standard (21in),Electricity,pickup,3.13619444
+437,RIVIAN R1T Dual Standard (22in),Electricity,pickup,3.360208328571429
+438,RIVIAN R1T Dual Standard (22in),Electricity,pickup,3.360208328571429
+439,RIVIAN R1T Performance Dual Large (21in),Electricity,pickup,3.015571576923077
+440,RIVIAN R1T Performance Dual Large (21in),Electricity,pickup,3.015571576923077
+441,RIVIAN R1T Performance Dual Large (22in),Electricity,pickup,3.0949287236842107
+442,RIVIAN R1T Performance Dual Large (22in),Electricity,pickup,3.0949287236842107
+443,RIVIAN R1T Performance Dual Max (21in),Electricity,pickup,2.8001736071428573
+444,RIVIAN R1T Performance Dual Max (21in),Electricity,pickup,2.8001736071428573
+445,RIVIAN R1T Performance Dual Max (22in),Electricity,pickup,3.015571576923077
+446,RIVIAN R1T Performance Dual Max (22in),Electricity,pickup,3.015571576923077
+447,RIVIAN R1T Quad Large (20in),Electricity,pickup,3.675227859375
+448,RIVIAN R1T Quad Large (20in),Electricity,pickup,3.675227859375
+449,RIVIAN R1T Quad Large (21in),Electricity,pickup,3.222117575342466
+450,RIVIAN R1T Quad Large (21in),Electricity,pickup,3.222117575342466
+451,RIVIAN R1T Quad Large (22in),Electricity,pickup,3.4590379852941178
+452,RIVIAN R1T Quad Large (22in),Electricity,pickup,3.4590379852941178
+453,ROLLS-ROYCE Black Badge Spectre (22'' Wheels),Electricity,small car,3.015571576923077
+454,ROLLS-ROYCE Black Badge Spectre (22'' Wheels),Electricity,small car,3.015571576923077
+455,ROLLS-ROYCE Black Badge Spectre (23'' Wheels),Electricity,small car,3.222117575342466
+456,ROLLS-ROYCE Black Badge Spectre (23'' Wheels),Electricity,small car,3.222117575342466
+457,ROLLS-ROYCE Spectre (22'' Wheels),Electricity,small car,2.9038837407407407
+458,ROLLS-ROYCE Spectre (22'' Wheels),Electricity,small car,2.9038837407407407
+459,ROLLS-ROYCE Spectre (23'' Wheels),Electricity,small car,3.178575445945946
+460,ROLLS-ROYCE Spectre (23'' Wheels),Electricity,small car,3.178575445945946
+461,SUBARU Solterra,Electricity,small SUV,2.261678682692308
+462,SUBARU Solterra,Electricity,small SUV,2.261678682692308
+463,SUBARU Solterra Limited/Touring,Electricity,small SUV,2.3060253235294117
+464,SUBARU Solterra Limited/Touring,Electricity,small SUV,2.3060253235294117
+465,TESLA Model 3,Electricity,midsize car,1.7819286590909091
+466,TESLA Model 3,Electricity,midsize car,1.7819286590909091
+467,TESLA Model 3 Long Range,Electricity,midsize car,1.8093429461538462
+468,TESLA Model 3 Long Range,Electricity,midsize car,1.8093429461538462
+469,"TESLA Model S Plaid (19"" Wheels)",Electricity,large car,2.1982671308411215
+470,"TESLA Model S Plaid (19"" Wheels)",Electricity,large car,2.1982671308411215
+471,"TESLA Model S Plaid (21"" Wheels)",Electricity,large car,2.45015190625
+472,"TESLA Model S Plaid (21"" Wheels)",Electricity,large car,2.45015190625
+473,TESLA Model X,Electricity,standard SUV,2.35214583
+474,TESLA Model X,Electricity,standard SUV,2.35214583
+475,"TESLA Model X Plaid (20"" Wheels)",Electricity,standard SUV,2.400148806122449
+476,"TESLA Model X Plaid (20"" Wheels)",Electricity,standard SUV,2.400148806122449
+477,"TESLA Model X Plaid (22"" Wheels)",Electricity,standard SUV,2.6134953666666667
+478,"TESLA Model X Plaid (22"" Wheels)",Electricity,standard SUV,2.6134953666666667
+479,TESLA Model Y Long Range,Electricity,small SUV,2.0103810512820512
+480,TESLA Model Y Long Range,Electricity,small SUV,2.0103810512820512
+481,TOYOTA Camry Hybrid LE,Gasoline,midsize car,4.523357365384616
+482,TOYOTA Camry Hybrid LE,Gasoline,midsize car,4.523357365384616
+483,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,midsize car,5.1133605
+484,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,midsize car,5.1133605
+485,TOYOTA Corolla Hybrid,Gasoline,small car,5.004565595744681
+486,TOYOTA Corolla Hybrid,Gasoline,small car,4.70429166
+487,TOYOTA Corolla Hybrid,Gasoline,small car,5.004565595744681
+488,TOYOTA Corolla Hybrid,Gasoline,small car,4.70429166
+489,TOYOTA Corolla Hybrid,Gasoline,small car,5.345785977272727
+490,TOYOTA Corolla Hybrid,Gasoline,small car,4.9003038125
+491,TOYOTA Corolla Hybrid,Gasoline,small car,5.345785977272727
+492,TOYOTA Corolla Hybrid,Gasoline,small car,4.9003038125
+493,TOYOTA Mirai Limited,Hydrogen,small car,3.6186858923076923
+494,TOYOTA Mirai Limited,Hydrogen,small car,3.6186858923076923
+495,TOYOTA Mirai XLE,Hydrogen,small car,3.178575445945946
+496,TOYOTA Mirai XLE,Hydrogen,small car,3.178575445945946
+497,TOYOTA Prius,Gasoline,midsize car,4.126571631578948
+498,TOYOTA Prius,Gasoline,midsize car,4.126571631578948
+499,TOYOTA Prius,Gasoline,midsize car,4.355825611111111
+500,TOYOTA Prius,Gasoline,midsize car,4.355825611111111
+501,TOYOTA Prius Prime,Gasoline/Electricity,midsize car,
+502,TOYOTA Prius Prime,Gasoline/Electricity,midsize car,
+503,TOYOTA Prius Prime SE,Gasoline/Electricity,midsize car,
+504,TOYOTA Prius Prime SE,Gasoline/Electricity,midsize car,
+505,TOYOTA Prius XLE/LTD,Gasoline,midsize car,4.523357365384616
+506,TOYOTA Prius XLE/LTD,Gasoline,midsize car,4.523357365384616
+507,TOYOTA Prius XLE/LTD,Gasoline,midsize car,4.800297612244898
+508,TOYOTA Prius XLE/LTD,Gasoline,midsize car,4.800297612244898
+509,TOYOTA RAV4 PRIME,Gasoline/Electricity,small SUV,
+510,TOYOTA RAV4 PRIME,Gasoline/Electricity,small SUV,
+511,TOYOTA bZ4X,Electricity,small SUV,1.9765931344537815
+512,TOYOTA bZ4X,Electricity,small SUV,1.9765931344537815
+513,TOYOTA bZ4X,Electricity,small SUV,2.261678682692308
+514,TOYOTA bZ4X,Electricity,small SUV,2.261678682692308
+515,TOYOTA bZ4X Limited,Electricity,small SUV,2.100130205357143
+516,TOYOTA bZ4X Limited,Electricity,small SUV,2.100130205357143
+517,TOYOTA bZ4X Limited,Electricity,small SUV,2.3060253235294117
+518,TOYOTA bZ4X Limited,Electricity,small SUV,2.3060253235294117
+519,VINFAST VF 9 Eco,Electricity,special purpose,3.13619444
+520,VINFAST VF 9 Eco,Electricity,special purpose,3.13619444
+521,VINFAST VF 9 Plus,Electricity,special purpose,3.408907
+522,VINFAST VF 9 Plus,Electricity,special purpose,3.408907
+523,VOLKSWAGEN ID.4,Electricity,small SUV,2.1982671308411215
+524,VOLKSWAGEN ID.4,Electricity,small SUV,2.1982671308411215
+525,VOLKSWAGEN ID.4 AWD Pro,Electricity,small SUV,2.3060253235294117
+526,VOLKSWAGEN ID.4 AWD Pro,Electricity,small SUV,2.3060253235294117
+527,VOLKSWAGEN ID.4 AWD Pro S,Electricity,small SUV,2.3060253235294117
+528,VOLKSWAGEN ID.4 AWD Pro S,Electricity,small SUV,2.3060253235294117
+529,VOLKSWAGEN ID.4 Pro,Electricity,small SUV,2.081544982300885
+530,VOLKSWAGEN ID.4 Pro,Electricity,small SUV,2.081544982300885
+531,VOLKSWAGEN ID.4 Pro S,Electricity,small SUV,2.081544982300885
+532,VOLKSWAGEN ID.4 Pro S,Electricity,small SUV,2.081544982300885
+533,VOLKSWAGEN ID.4 S,Electricity,small SUV,2.1982671308411215
+534,VOLKSWAGEN ID.4 S,Electricity,small SUV,2.1982671308411215
+535,VOLVO C40 Recharge,Electricity,small SUV,2.1982671308411215
+536,VOLVO C40 Recharge,Electricity,small SUV,2.1982671308411215
+537,VOLVO C40 Recharge twin,Electricity,small SUV,2.3759048787878787
+538,VOLVO C40 Recharge twin,Electricity,small SUV,2.3759048787878787
+539,VOLVO S60 T8 Recharge,Gasoline/Electricity,small car,
+540,VOLVO S60 T8 Recharge,Gasoline/Electricity,small car,
+541,VOLVO S90 T8 Recharge,Gasoline/Electricity,midsize car,
+542,VOLVO S90 T8 Recharge,Gasoline/Electricity,midsize car,
+543,VOLVO V60 T8 Recharge,Gasoline/Electricity,station wagon,
+544,VOLVO V60 T8 Recharge,Gasoline/Electricity,station wagon,
+545,VOLVO XC40 Recharge,Electricity,small SUV,2.2190055
+546,VOLVO XC40 Recharge,Electricity,small SUV,2.2190055
+547,VOLVO XC40 Recharge Twin,Electricity,small SUV,2.400148806122449
+548,VOLVO XC40 Recharge Twin,Electricity,small SUV,2.400148806122449
+549,VOLVO XC60 T8 Recharge,Gasoline/Electricity,small SUV,
+550,VOLVO XC60 T8 Recharge,Gasoline/Electricity,small SUV,
+551,VOLVO XC90 T8 Recharge,Gasoline/Electricity,standard SUV,
+552,VOLVO XC90 T8 Recharge,Gasoline/Electricity,standard SUV,

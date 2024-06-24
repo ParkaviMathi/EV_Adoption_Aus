@@ -1,0 +1,408 @@
+
+
+/* Get google fonts */
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Roboto');
+
+
+
+/* Customize website's scrollbar like Mac OS
+Not supports in Firefox and IE */
+
+/* Source: https://gist.github.com/spemer/a0e218bbb45433bd611e68446523a00b */
+/* total width */
+*::-webkit-scrollbar {
+  background-color: whitesmoke;
+  width: 2px;
+}
+
+/* background of the scrollbar except button or resizer */
+*::-webkit-scrollbar-track {
+  background-color: whitesmoke;
+}
+
+/* scrollbar itself */
+*::-webkit-scrollbar-thumb {
+  background-color: #babac0;
+  width: 4px;
+  border-radius: 16px;
+  /* border: 4px solid rgba(0,0,0,0); */
+}
+
+/* set button(top and bottom of the scrollbar) */
+*::-webkit-scrollbar-button {
+  display:none;
+}
+
+/* ----------------------------------- */
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Layout of page */
+
+.content-page {
+  display: flex;
+}
+
+.graph-page-type {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Sidebar --------------------- */
+
+.sidebar {
+  position: sticky;
+  top: 0;
+  background-color: #222d3d;
+  width: 300px;
+  flex-shrink: 0;
+  height: 100vh;
+  padding: 0px 16px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 24px;
+  
+}
+
+.sidebar-selection-box {
+  font-size: 16px;
+  margin-top: 16px;
+  top: 16px;
+  background-color: #0d1117;
+  color: whitesmoke;
+  padding: 8px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar-selection-box:hover {
+  background-color: whitesmoke;
+  color: #0d1117;
+}
+
+.red-test-box {
+  margin-top: 16px;
+  top: 16px;
+  background-color: red;
+}
+
+/* --------------------- */
+
+
+#homepage-main-div {
+    color: white;
+}
+
+.home-page-content {
+  display:flex;
+}
+
+.home-page-text {
+  background-color: #0d111781;
+  color: white;
+  width: 400px;
+  padding: 24px;
+  margin-top: 32px;
+  margin-left: 200px;
+}
+
+.home-journey-button {
+  height: 50px;
+  margin-left: 200px;
+  align-self: center;
+}
+
+/* CSS for button 74*/
+.button-74 {
+  background-color: whitesmoke;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-74:hover {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.button-74:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+  .button-74 {
+    min-width: 120px;
+    padding: 0 25px;
+  }
+}
+
+
+
+
+#background-video {
+    width: 100%;
+    height: 100%;
+    /* padding-top: 70px; */
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+#homepage-main-div {
+    height: 90vh;
+    border-width: 10px;
+    border-style: solid;
+    border-image-source: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0));
+    border-image-slice: fill 1;
+}
+
+.home-page-title {
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+
+/* Navbar */
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#main-navbar {
+    border-bottom: 1px solid black;
+    z-index: 9000;
+}
+
+.dropdown-menu-navbar {
+    padding-right: 100px;
+}
+
+
+
+.page-title {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  color: #0d1117;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  background-color: lightblue;
+  margin-bottom: 8px;
+  border: 1px solid black;
+  border-top: None;
+}
+
+/* Graph pages --------------------------------- */
+
+.graph-title {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  color: whitesmoke;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #0d1117;
+  margin-bottom: 8px;
+}
+
+/* Graph containers */
+.graph-container-1 {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    /* padding-right: 16px; */
+    overflow: hidden;
+    border-radius: 25px;
+    border: 2px solid #e0e0e0;
+    /* box-shadow: 0 5px 10px rgba(119, 124, 131, 0.2); */
+    box-shadow: inset 0 0 0.5px 1px hsla(0, 0%,  
+              100%, 0.075),
+              /* shadow ring 👇 */
+              0 0 0 1px hsla(0, 0%, 0%, 0.05),
+              /* multiple soft shadows 👇 */
+              0 0.3px 0.4px hsla(0, 0%, 0%, 0.02),
+              0 0.9px 1.5px hsla(0, 0%, 0%, 0.045),
+              0 3.5px 6px hsla(0, 0%, 0%, 0.09);
+    background-color: white;
+    width: 70vw;
+    min-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+}
+
+/* For graphs that need that forced to be a specific height */
+.graph-grow {
+    height: 600px;
+}
+
+.scroll {
+  overflow-y:auto;
+  /* overflow:scroll; */
+}
+
+#slct_year {
+    width: 50%;
+}
+
+.graph-opts-1 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+
+    margin-bottom: 16px;
+    margin-top: 16px;
+    background-color: whitesmoke;
+
+    padding: 16px;
+
+    border: 2px solid #e0e0e0;
+
+    border-radius: 16px;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Collapsible details box css */
+/* ----------------------------- */
+
+
+details {
+    width: 75vw;
+    margin: 16px auto;    
+    background: whitesmoke;
+
+    border-radius: 16px;
+    border: 2px solid #e0e0e0;
+    /* box-shadow: 0 5px 10px rgba(119, 124, 131, 0.2); */
+    box-shadow: inset 0 0 0.5px 1px hsla(0, 0%,  
+              100%, 0.075),
+              /* shadow ring 👇 */
+              0 0 0 1px hsla(0, 0%, 0%, 0.05),
+              /* multiple soft shadows 👇 */
+              0 0.3px 0.4px hsla(0, 0%, 0%, 0.02),
+              0 0.9px 1.5px hsla(0, 0%, 0%, 0.045),
+              0 3.5px 6px hsla(0, 0%, 0%, 0.09);
+    overflow: hidden;
+  }
+  
+  summary {
+    padding: 16px;
+    padding-bottom: 8px;
+    display: block;
+    background: #222d3d;
+    color: whitesmoke;
+    padding-left: 2.2rem;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  div.collapsible-content {
+    background-color: #e0e0e0;
+    padding: 16px;
+    padding-top: 0px;
+    margin-top: 0;
+    max-height: 400px;
+    overflow-y: auto;
+    /* border-top: 2px solid gray; */
+    box-shadow: inset 0 7px 5px -7px rgba(0,0,0,0.7);
+    
+  }
+
+  
+  
+  summary:before {
+    content: '';
+    border-width: .4rem;
+    border-style: solid;
+    border-color: transparent transparent transparent whitesmoke;
+    position: absolute;
+    top: 1.3rem;
+    left: 1rem;
+    transform: rotate(0);
+    transform-origin: .2rem 50%;
+    transition: .25s transform ease;
+  }
+  
+  /* THE MAGIC 🧙‍♀️ */
+  details[open] > summary:before {
+    transform: rotate(90deg);
+  }
+  
+  
+  details summary::-webkit-details-marker {
+    display:none;
+  }
+  
+  details > * {
+    padding-bottom: 1rem;
+    margin-bottom: 0;
+    
+  }
+
+/* ----------------------------- */
+
+
+/* Calculator */
+/* ---------------- */
+
+.calculator-body {
+  width: 65vw;
+  height: 80vh;
+  margin: 0 auto;
+  margin-top: 16px;
+  background: whitesmoke;
+
+  border-radius: 16px;
+  border: 2px solid #e0e0e0;
+  /* box-shadow: 0 5px 10px rgba(119, 124, 131, 0.2); */
+  box-shadow: inset 0 0 0.5px 1px hsla(0, 0%,  
+            100%, 0.075),
+            /* shadow ring 👇 */
+            0 0 0 1px hsla(0, 0%, 0%, 0.05),
+            /* multiple soft shadows 👇 */
+            0 0.3px 0.4px hsla(0, 0%, 0%, 0.02),
+            0 0.9px 1.5px hsla(0, 0%, 0%, 0.045),
+            0 3.5px 6px hsla(0, 0%, 0%, 0.09);
+}
+
+#ev-carselector-dropdown {
+  width: 50%;
+  margin: 0 auto;
+}
+
+/* ------------- */

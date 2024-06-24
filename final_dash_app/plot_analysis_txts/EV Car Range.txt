@@ -1,0 +1,4 @@
+Range: The range of electric vehicles varies considerably, with some exceeding 700 kilometers (km) while others fall short of 200 km. This indicates a significant difference in how far these vehicles can travel on a single charge.
+Common Range: There seems to be a cluster of vehicles around the 400-500 km range, suggesting that this might be a common range for many EVs.
+Outliers: Several outliers exist, with a few electric vehicles exceeding 600 km and a couple falling below 200 km. This highlights the ongoing development in battery technology, with some manufacturers achieving longer ranges.
+Considerations: Potential buyers considering an EV would need to carefully evaluate their driving needs and choose a vehicle with a suitable range to avoid frequent charging stops.

@@ -1,0 +1,2 @@
+Range: Electric vehicles on the graph range in consumption from around 30 Wh/km to over 120 Wh/km. This indicates a significant difference in efficiency between various models. Lower Wh/km signifies better efficiency, meaning the car travels farther on less energy.
+Efficiency: Tesla Model 3 and Hyundai IONIQ 6 (Standard Range) appear to be the most efficient vehicles on the list, consuming around 30-40 Wh/km. Dacia Spring Electric 45 and Renault Megane E-Tech EV40 130hp are towards the higher end, consuming over 100 Wh/km.

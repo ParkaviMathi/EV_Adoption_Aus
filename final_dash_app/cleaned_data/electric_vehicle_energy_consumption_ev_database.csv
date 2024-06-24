@@ -1,0 +1,361 @@
+,Vehicle,Consumption (Wh/km)
+0,Tesla Model 3,139
+1,Hyundai IONIQ 6 Standard Range 2WD,149
+2,Hyundai IONIQ 6 Long Range 2WD,149
+3,Tesla Model 3 Long Range Dual Motor,150
+4,Dacia Spring Electric 45,152
+5,Opel Corsa Electric 51 kWh,153
+6,Renault Megane E-Tech EV40 130hp,154
+7,Citroen e-C4 54 kWh,154
+8,Citroen e-C4 X 54 kWh,154
+9,Lancia Ypsilon,155
+10,Peugeot e-208 51 kWh,155
+11,BMW i4 eDrive35,156
+12,Dacia Spring Electric 65,156
+13,Renault 5 E-Tech 40kWh 95hp,157
+14,Renault 5 E-Tech 40kWh 120hp,157
+15,Opel Corsa Electric 50 kWh,157
+16,Fiat 500e Hatchback 24 kWh,158
+17,Fiat 500e 3+1 24 kWh,158
+18,Fiat 500e Cabrio 24 kWh,158
+19,Renault Twingo Electric,158
+20,BMW i4 eDrive40,158
+21,Renault Megane E-Tech EV60 130hp,158
+22,Renault Megane E-Tech EV60 220hp,158
+23,Lucid Air Touring,159
+24,Fiat 500e Hatchback 42 kWh,159
+25,Fiat 500e 3+1 42 kWh,159
+26,Opel Astra Electric,159
+27,Alfa Romeo Junior Elettrica 54 kWh,159
+28,Citroen e-C4,160
+29,Peugeot e-208 50 kWh,160
+30,Mini Cooper E,160
+31,Skoda Enyaq Coupe 85,160
+32,Skoda Enyaq Coupe 60,161
+33,Tesla Model 3 Performance,161
+34,Fiat 500e Cabrio 42 kWh,162
+35,Citroen e-C4 X,162
+36,Renault 5 E-Tech 52kWh 150hp,163
+37,Volkswagen ID.3 Pure,163
+38,Lucid Air Pure RWD,163
+39,Tesla Model Y Long Range RWD,163
+40,Mini Cooper SE,163
+41,BMW iX2 eDrive20,164
+42,Volkswagen ID.7 Pro,164
+43,Skoda Enyaq Coupe 85x,164
+44,Opel Astra Sports Tourer Electric,164
+45,Jeep Avenger Electric,164
+46,Alfa Romeo Junior Elettrica 54 kWh Veloce,164
+47,Volkswagen ID.3 Pro,164
+48,Hyundai Kona Electric 48 kWh,164
+49,Tesla Model Y,164
+50,Tesla Model Y,164
+51,BYD SEAL 82.5 kWh RWD Design,165
+52,Renault Zoe ZE50 R110,165
+53,Tesla Model S Dual Motor,165
+54,Volkswagen ID.7 Pro S,165
+55,Polestar 2 Standard Range Single Motor,165
+56,Volkswagen ID.3 Pro,166
+57,CUPRA Born 150 kW - 58 kWh,166
+58,BMW iX1 eDrive20,166
+59,BMW i4 xDrive40,166
+60,Nissan Leaf,166
+61,Mini Aceman SE,166
+62,Citroen e-C3,166
+63,Fiat 600e,167
+64,XPENG P7 RWD Long Range,167
+65,Volkswagen ID.7 Tourer Pro,167
+66,Mini Aceman E,167
+67,Hyundai Kona Electric 65 kWh,168
+68,Renault Zoe ZE50 R135,168
+69,Mercedes-Benz EQA 250+,168
+70,Abarth 500e Hatchback,168
+71,Abarth 500e Convertible,168
+72,Mini Countryman E,168
+73,Polestar 2 Long Range Single Motor,168
+74,CUPRA Born 170 kW - 58 kWh,168
+75,Hyundai IONIQ 6 Long Range AWD,168
+76,Kia Niro EV,168
+77,Mercedes-Benz EQA 250,168
+78,BYD SEAL 82.5 kWh AWD Excellence,168
+79,Lucid Air Grand Touring,168
+80,Volkswagen ID.7 Tourer Pro S,169
+81,Volkswagen ID.3 Pro S - 4 Seats,169
+82,Kia EV3 Standard Range,169
+83,Skoda Enyaq Coupe RS,169
+84,Volkswagen ID.5 Pro,169
+85,Peugeot e-2008 54 kWh,169
+86,MG MG4 Electric 51 kWh,169
+87,Peugeot e-308,169
+88,Peugeot e-308 SW,169
+89,DS 3 E-Tense,169
+90,BYD DOLPHIN 44.9 kWh Active,169
+91,Mercedes-Benz EQE 300,170
+92,Tesla Model S Plaid,170
+93,Porsche Taycan,170
+94,Mercedes-Benz EQB 250+,170
+95,BMW iX1 xDrive30,170
+96,BMW iX2 xDrive30,170
+97,Kia e-Soul 39.2 kWh,170
+98,Mercedes-Benz EQS 450+,171
+99,Volkswagen ID.3 Pro S,171
+100,CUPRA Tavascan Endurance,171
+101,Skoda Enyaq 85,171
+102,CUPRA Born 170 kW - 77 kWh,171
+103,MG MG5 Electric Long Range,171
+104,MG MG4 Electric 64 kWh,171
+105,Aiways U6,171
+106,Peugeot e-2008 50 kWh,171
+107,CUPRA Born VZ,172
+108,Volkswagen ID.3 GTX,172
+109,Volkswagen ID.3 GTX Performance,172
+110,Tesla Model Y Long Range Dual Motor,172
+111,BYD DOLPHIN 44.9 kWh Boost,173
+112,BMW i5 eDrive40 Sedan,173
+113,BYD DOLPHIN 60.4 kWh,173
+114,Mercedes-Benz EQE 350+,173
+115,Kia e-Soul 64 kWh,173
+116,MG Cyberster Trophy,173
+117,Volkswagen ID.4 Pro,173
+118,Skoda Enyaq 60,173
+119,Porsche Taycan Plus,173
+120,Porsche Taycan 4S,173
+121,Kia EV3 Long Range,173
+122,Nissan Leaf e+,174
+123,MG MG5 Electric Standard Range,174
+124,GWM ORA 3 63 kWh,174
+125,GWM ORA 3 48 kWh,175
+126,Smart #3 Premium,175
+127,Smart #3 Pro+,175
+128,Skoda Enyaq 85x,175
+129,MG MG4 Electric 77 kWh,175
+130,Opel Mokka-e 54 kWh,175
+131,Polestar 2 Long Range Dual Motor,176
+132,Polestar 2 Long Range Performance,176
+133,Mercedes-Benz EQE 350 4MATIC,176
+134,XPENG G6 RWD Standard Range,176
+135,NIO ET7 75 kWh,176
+136,Porsche Taycan 4S Plus,176
+137,Renault Scenic E-Tech EV60 170hp,176
+138,Mazda MX-30,176
+139,Audi Q4 Sportback e-tron 45,177
+140,Skoda Enyaq RS,177
+141,Volkswagen ID.4 Pro 4MOTION,177
+142,Kia EV6 Standard Range 2WD,177
+143,Mini Countryman SE ALL4,177
+144,Smart #3 Pro,177
+145,Renault Scenic E-Tech EV87 220hp,178
+146,Volvo EX30 Single Motor ER,178
+147,Opel Mokka-e 50 kWh,178
+148,Volvo EX30 Single Motor,178
+149,NIO ET7 100 kWh,178
+150,BMW i5 xDrive40 Sedan,178
+151,BMW i5 eDrive40 Touring,178
+152,NIO ET5 75 kWh,178
+153,XPENG G6 RWD Long Range,179
+154,Mercedes-Benz EQS 450 4MATIC,179
+155,Zeekr 001 Long Range RWD,179
+156,Ford Explorer Extended Range RWD,179
+157,CUPRA Tavascan VZ,179
+158,Volkswagen ID.5 GTX,179
+159,Mercedes-Benz EQE 500 4MATIC,179
+160,XPENG P7 AWD Performance,180
+161,BYD HAN,180
+162,e.Go e.wave X,180
+163,NIO ET5 100 kWh,180
+164,Zeekr X Long Range RWD,180
+165,Kia EV6 Long Range 2WD,180
+166,BMW i4 M50,181
+167,Tesla Model Y Performance,181
+168,Volkswagen ID.7 GTX,181
+169,XPENG P7 Wing Edition,182
+170,XPENG G6 AWD Performance,182
+171,Volkswagen ID.4 Pure,182
+172,GWM ORA 3 GT,182
+173,Toyota bZ4X FWD,183
+174,Lexus RZ 450e,183
+175,Mercedes-Benz EQS 500 4MATIC,183
+176,Hyundai IONIQ 5 Standard Range 2WD,183
+177,NIO ET5 Touring 75 kWh,183
+178,BYD ATTO 3,183
+179,Audi Q4 e-tron 45,183
+180,Volkswagen ID.4 GTX,183
+181,Ford Explorer Extended Range AWD,184
+182,Mercedes-Benz EQS 580 4MATIC,184
+183,MG ZS EV Long Range,185
+184,Honda e:Ny1,185
+185,MG ZS EV Standard Range,185
+186,Porsche Taycan Sport Turismo,185
+187,Volkswagen ID.7 Tourer GTX,185
+188,Kia EV6 Long Range AWD,185
+189,Smart #1 Premium,185
+190,Smart #1 Pro+,185
+191,Smart #3 Brabus,185
+192,Toyota bZ4X AWD,186
+193,Zeekr X Privilege AWD,186
+194,Audi Q4 Sportback e-tron 55 quattro,186
+195,NIO ET5 Touring 100 kWh,186
+196,Ford Explorer Standard Range RWD,186
+197,MG Cyberster GT,186
+198,Volvo EC40 Single Motor,186
+199,Porsche Taycan Turbo,187
+200,Genesis G80 Electrified Luxury,188
+201,Audi Q4 Sportback e-tron 45 quattro,188
+202,Zeekr 001 Performance AWD,188
+203,Smart #1 Pro,188
+204,Nissan Ariya 63kWh,188
+205,Volvo EC40 Single Motor ER,188
+206,Lexus UX 300e,188
+207,Porsche Taycan Plus Sport Turismo,188
+208,Lotus Emeya,189
+209,Lotus Emeya S,189
+210,Ford Mustang Mach-E ER RWD,190
+211,Genesis GV60 Premium,190
+212,Hyundai IONIQ 5 Long Range 2WD,190
+213,Polestar 4 Long Range Single Motor,190
+214,Zeekr 001 Privilege AWD,190
+215,Mercedes-Benz EQA 300 4MATIC,190
+216,Mercedes-Benz EQA 350 4MATIC,190
+217,Aiways U5,190
+218,Smart #1 Pulse,191
+219,Smart #1 Brabus,191
+220,Volvo EX30 Twin Motor Performance,191
+221,Ford Mustang Mach-E SR RWD,191
+222,Porsche Taycan 4S Sport Turismo,191
+223,MG Marvel R,192
+224,XPENG G9 RWD Standard Range,192
+225,Porsche Taycan 4 Cross Turismo,192
+226,Porsche Taycan 4S Cross Turismo,192
+227,Peugeot e-3008 73 kWh,192
+228,Peugeot e-3008 73 kWh Dual Motor,192
+229,Peugeot e-3008 98 kWh Long Range,192
+230,Hyundai IONIQ 5 Long Range AWD,192
+231,BMW iX3,192
+232,Mercedes-Benz EQB 300 4MATIC,193
+233,Mercedes-Benz EQB 350 4MATIC,193
+234,MG MG4 Electric XPOWER,193
+235,SsangYong Korando e-Motion,193
+236,Nissan Ariya 87kWh,193
+237,BMW i5 M60 xDrive Sedan,193
+238,XPENG G9 RWD Long Range,194
+239,Porsche Taycan Turbo S,194
+240,Volvo EX40 Single Motor,194
+241,Genesis GV60 Sport,195
+242,Audi Q4 e-tron 45 quattro,195
+243,Audi Q4 e-tron 55 quattro,195
+244,BMW i7 eDrive50,196
+245,BMW i5 M60 xDrive Touring,196
+246,Porsche Macan 4 Electric,196
+247,Porsche Taycan 4S Plus Sport Turismo,196
+248,Porsche Taycan Turbo Cross Turismo,196
+249,BMW iX xDrive40,197
+250,Peugeot e-5008 73 kWh,197
+251,Volvo EX40 Single Motor ER,198
+252,Volvo EC40 Twin Motor Performance,198
+253,Volvo EC40 Twin Motor,198
+254,Maserati GranTurismo Folgore,198
+255,Audi Q6 e-tron performance,198
+256,Porsche Macan Turbo Electric,198
+257,BMW i7 xDrive60,199
+258,Subaru Solterra AWD,200
+259,Peugeot e-5008 73 kWh Dual Motor,200
+260,Peugeot e-5008 98 kWh Long Range,200
+261,Mercedes-Benz EQT 200 Standard,200
+262,Tesla Model X Dual Motor,200
+263,MG Marvel R Performance,200
+264,Audi Q8 e-tron Sportback 50 quattro,200
+265,Nissan Townstar EV Passenger,200
+266,XPENG G9 AWD Performance,200
+267,Mercedes-Benz EQE AMG 43 4MATIC,201
+268,Mercedes-Benz EQE AMG 53 4MATIC+,201
+269,Mercedes-Benz EQE SUV 300,201
+270,NIO EL6 75 kWh,201
+271,Mercedes-Benz EQS AMG 53 4MATIC+,202
+272,Audi Q8 e-tron Sportback 55 quattro,202
+273,Mercedes-Benz EQE SUV 350+,202
+274,Polestar 4 Long Range Dual Motor,202
+275,Genesis GV60 Sport Plus,203
+276,KGM Torres EVX,203
+277,Fisker Ocean Sport,203
+278,Porsche Taycan Turbo S Cross Turismo,204
+279,Porsche Taycan Turbo GT,204
+280,Porsche Taycan Turbo GT Weissach,204
+281,Ford Mustang Mach-E ER AWD,204
+282,Renault Kangoo E-Tech Electric,205
+283,Volvo EX40 Twin Motor,205
+284,Kia EV6 GT,206
+285,Audi Q6 e-tron quattro,206
+286,VinFast VF 8 Eco Extended Range,206
+287,VinFast VF 8 Plus Extended Range,206
+288,Porsche Taycan Turbo Sport Turismo,206
+289,NIO EL6 100 kWh,207
+290,NIO EL7 75 kWh,207
+291,Ford Mustang Mach-E SR AWD,207
+292,BMW i7 M70 xDrive,208
+293,Elaris BEO 86 kWh,208
+294,Hyundai IONIQ 5 N,208
+295,Volvo EX40 Twin Motor Performance,208
+296,Mercedes-Benz EQE SUV 350 4MATIC,208
+297,BMW iX xDrive50,208
+298,Voyah Free 106 kWh,208
+299,Tesla Model X Plaid,209
+300,Fisker Ocean Ultra,209
+301,NIO EL7 100 kWh,209
+302,Audi Q8 e-tron 50 quattro,209
+303,Audi Q8 e-tron 55 quattro,210
+304,Maserati GranCabrio Folgore,210
+305,Porsche Taycan Turbo S Sport Turismo,211
+306,Mercedes-Benz EQE SUV 500 4MATIC,211
+307,BYD SEAL U 71.8 kWh Comfort,211
+308,Genesis GV70 Electrified Sport,211
+309,Lotus Emeya R,213
+310,Citroen e-Berlingo M 50 kWh,213
+311,Audi SQ6 e-tron,213
+312,Kia EV9 99.8 kWh RWD,213
+313,Ford Mustang Mach-E GT,214
+314,BYD SEAL U 87 kWh Design,215
+315,Nissan Ariya e-4ORCE 87kWh - 225 kW,215
+316,Nissan Ariya e-4ORCE 87kWh - 290 kW,215
+317,BMW iX M60,217
+318,Fisker Ocean Extreme,217
+319,Citroen e-Berlingo XL 50 kWh,217
+320,Mercedes-Benz EQE SUV AMG 43 4MATIC,218
+321,Polestar 3 Long Range Dual motor,218
+322,Mercedes-Benz EQS SUV 450+,219
+323,Rolls-Royce Spectre,219
+324,Volvo EX90 Single Motor,220
+325,Lotus Eletre,220
+326,Kia EV9 99.8 kWh AWD,221
+327,Audi SQ8 e-tron Sportback,221
+328,Mercedes-Benz EQE SUV AMG 53 4MATIC+,221
+329,Mercedes-Benz EQS SUV 450 4MATIC,223
+330,Mercedes-Benz EQS SUV 500 4MATIC,223
+331,Mercedes-Benz EQS SUV 580 4MATIC,223
+332,Jaguar I-Pace EV400,223
+333,Volkswagen ID. Buzz Pro,223
+334,Kia EV9 99.8 kWh AWD GT-Line,226
+335,Lotus Eletre S,227
+336,Polestar 3 Long Range Performance,228
+337,Volkswagen ID. Buzz LWB Pro,230
+338,Volvo EX90 Twin Motor,230
+339,Maxus MIFA 9,230
+340,Volkswagen ID. Buzz LWB Pro S,232
+341,Audi SQ8 e-tron,233
+342,Volkswagen ID. Buzz GTX,236
+343,VinFast VF 9 Extended Range,237
+344,Maserati Grecale Folgore,238
+345,Volvo EX90 Twin Motor Performance,238
+346,Hongqi E-HS9 84 kWh,239
+347,Lotus Eletre R,240
+348,Mercedes-Benz EQS SUV Maybach 680,241
+349,Volkswagen ID. Buzz LWB GTX ,242
+350,Hongqi E-HS9 99 kWh,243
+351,BYD TANG,243
+352,Hongqi E-HS9 120 kWh,243
+353,Mercedes-Benz eVito Tourer Long 60 kWh,273
+354,Mercedes-Benz EQV 250 Long,279
+355,Mercedes-Benz eVito Tourer Extra-Long 60 kWh,279
+356,Mercedes-Benz eVito Tourer Long 90 kWh,281
+357,Mercedes-Benz EQV 250 Extra-Long,286
+358,Mercedes-Benz EQV 300 Long,286
+359,Mercedes-Benz G 580,322

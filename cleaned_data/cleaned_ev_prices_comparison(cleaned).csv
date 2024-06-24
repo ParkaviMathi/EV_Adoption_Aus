@@ -1,0 +1,41 @@
+,Model,Country,Price
+0,Porsche Taycan,Australia,158100
+1,Tesla Model 3,Australia,65500
+2,Tesla Model Y,Australia,100235
+3,Toyota RAV4 Hybrid,Australia,36900
+4,Volvo XC40 BEV,Australia,72990
+5,Porsche Taycan,Norway,120084
+6,Tesla Model 3,Norway,61979
+7,Tesla Model Y,Norway,84523
+8,Toyota RAV4 Hybrid,Norway,76875
+9,Volvo XC40 BEV,Norway,69135
+10,Porsche Taycan,New Zealand,165189
+11,Tesla Model 3,New Zealand,67499
+12,Tesla Model Y,New Zealand,98140
+13,Toyota RAV4 Hybrid,New Zealand,42617
+14,Volvo XC40 BEV,New Zealand,75610
+15,Porsche Taycan,Germany,137673
+16,Tesla Model 3,Germany,82488
+17,Tesla Model Y,Germany,93390
+18,Toyota RAV4 Hybrid,Germany,58387
+19,Volvo XC40 BEV,Germany,75768
+20,Porsche Taycan,China,195906
+21,Tesla Model 3,China,63481
+22,Tesla Model Y,China,86150
+23,Toyota RAV4 Hybrid,China,49260
+24,Volvo XC40 BEV,China,60722
+25,Porsche Taycan,Japan,130260
+26,Tesla Model 3,Japan,63366
+27,Tesla Model Y,Japan,88536
+28,Toyota RAV4 Hybrid,Japan,37590
+29,Volvo XC40 BEV,Japan,61517
+30,Porsche Taycan,USA,130348
+31,Tesla Model 3,USA,74063
+32,Tesla Model Y,USA,92977
+33,Toyota RAV4 Hybrid,USA,46614
+34,Volvo XC40 BEV,USA,81487
+35,Porsche Taycan,Great Britain,135392
+36,Tesla Model 3,Great Britain,85180
+37,Tesla Model Y,Great Britain,120149
+38,Toyota RAV4 Hybrid,Great Britain,61669
+39,Volvo XC40 BEV,Great Britain,80518

@@ -1,0 +1,3 @@
+The plot shows a significant rise in EV car sales share across most countries over the past decade. This suggests a growing trend of electric vehicle adoption globally.
+Some countries, like Norway, Denmark, and Finland, appear to have consistently high EV adoption rates throughout the period, potentially exceeding 60% share in recent years. 
+ In contrast, countries like the United States and Australia show a slower but increasing EV adoption rate, reaching around 10-20% share in 2022.

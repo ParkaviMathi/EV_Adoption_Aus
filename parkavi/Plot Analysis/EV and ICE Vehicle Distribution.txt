@@ -1,0 +1,3 @@
+Diverse Distribution: There is a widespread distribution of all vehicle types, but BEVs and Hybrid/PHEVs are predominantly located in the southeastern regions, such as around Melbourne, Sydney, and Brisbane, and along the coastlines. This pattern likely correlates with higher population densities and urban centers.
+Regional Preferences: The northern and central parts of Australia have fewer EVs, which might reflect the rural and remote nature of these areas where infrastructure to support EVs could be lacking.
+ICE Dominance: While there is still a significant presence of ICE vehicles across the country, their dominance appears less in highly populated urban areas where EVs and hybrids are more prevalent.
